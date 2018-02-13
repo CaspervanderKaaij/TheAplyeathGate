@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 398ae53ce3e63cd41b109a584e7a7de9
+timeCreated: 1514745932
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sfxChestOpen: {fileID: 8300000, guid: e8226428a261eb247a69fd62f105aaa9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

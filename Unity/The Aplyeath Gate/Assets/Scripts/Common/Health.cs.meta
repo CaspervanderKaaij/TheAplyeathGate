@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c3248b816cc4f242803d0c5404a9840
+timeCreated: 1514745944
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - healthBarTR: {instanceID: 0}
+  - healthBarTRPivot: {instanceID: 0}
+  - heal: {fileID: 8300000, guid: 061613f2b4d2bf342a3a879207d699b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
